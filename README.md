@@ -1,4 +1,4 @@
-# sesion7-tarea-grupo
+# Tarea de Grupo
 
 Objetivo: Agregar interactividad al texto "Hola mundo" al hacer clic sobre él, cambiando su color, tamaño o posición.
 
