@@ -8,6 +8,7 @@ Requisitos:
 Aprender los fundamentos de JavaScript.
 
 A partir del fichero index.html realiza lo siguiente:
+
 Crea y seleccionar ul elemento "h1" usando el DOM.
 
 Agregar un evento "click" al elemento.
