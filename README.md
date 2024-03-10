@@ -2,7 +2,9 @@
 
 Objetivo: Agregar interactividad al texto "Hola mundo" al hacer clic sobre él, cambiando su color, tamaño o posición.
 
+
 Requisitos:
+
 Aprender los fundamentos de JavaScript.
 
 A partir del fichero index.html Seleccionar el elemento "h1" usando el DOM.
@@ -10,6 +12,7 @@ A partir del fichero index.html Seleccionar el elemento "h1" usando el DOM.
 Agregar un evento "click" al elemento.
 
 Modificar las propiedades del elemento en la función del evento.
+
 
 Recursos:
 
